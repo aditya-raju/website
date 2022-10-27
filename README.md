@@ -13,9 +13,9 @@ Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
 Connect with me on:
 
-LinkedIn: www.linkedin.com/in/rajuaditya
+LinkedIn: [www.linkedin.com/in/rajuaditya](www.linkedin.com/in/rajuaditya)
 
-Instagram: www.instagram.com/adityaraju_/
+Instagram: [www.instagram.com/adityaraju_](www.instagram.com/adityaraju_)
 
 Check out my work at:
 
