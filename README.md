@@ -3,7 +3,7 @@ Hi, my name is Aditya.
 
 Contact me at:
 
-Phone: +91-9876543210
+Phone: [+91-9876543210](tel:9876543210)
 
 WhatsApp:
 
