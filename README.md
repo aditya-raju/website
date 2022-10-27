@@ -7,13 +7,13 @@ Contact me at:
 
 💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1)
 
-![IMG_FDD2A6198CD5-1 copy 2](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
+![WhatsApp QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
 Connect with me on:
 
-LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
