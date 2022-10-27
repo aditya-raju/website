@@ -7,7 +7,7 @@ Phone: [+91-9876543210](tel:9876543210)
 
 WhatsApp:
 
-![IMG_FDD2A6198CD5-1 copy](https://user-images.githubusercontent.com/101379574/198302802-7f58ad4f-07da-4a43-a4e3-a0f204af3d1a.jpeg)
+![IMG_FDD2A6198CD5-1 copy 2](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
