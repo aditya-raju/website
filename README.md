@@ -13,15 +13,15 @@ Contact me at:
 
 Connect with me on:
 
-LinkedIn: [www.linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
-Instagram: [www.instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
+Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
 Check out my work at:
 
-Behance:
+Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
-Instagram:
+Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
 Thank you, take care
 
