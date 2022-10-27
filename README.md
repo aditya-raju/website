@@ -1,4 +1,4 @@
-# Contact Aditya Raju
+# Connect with Aditya Raju
 Hi, my name is Aditya.
 
 Contact me at:
