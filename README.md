@@ -15,7 +15,7 @@ Connect with me on:
 
 LinkedIn: www.linkedin.com/in/rajuaditya
 
-Instagram:
+Instagram: www.instagram.com/adityaraju_
 
 Check out my work at:
 
