@@ -1,9 +1,9 @@
 # Connect with Aditya Raju
 Hi, my name is Aditya.
 
-Contact me at:
+Contact me:
 
- 📞 Phone: [+91-9876543210](tel:9876543210)
+📞 Phone: [+91-9876543210](tel:9876543210)
 
 💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1)
 
@@ -11,13 +11,13 @@ Contact me at:
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-Connect with me on:
+Connect with me:
 
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
-Check out my work at:
+Check out my work:
 
 Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
