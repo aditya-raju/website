@@ -17,11 +17,9 @@ Contact and connect with me:
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-I typically respond to texts and emails between 19:00 and 00:00 IST, daily.
+I typically respond to phone calls, texts and emails between 19:00 and 00:00 IST, daily.
 
 See you soon :)
-
-Last Updated: 31st October 2022
 
 - - -
 
