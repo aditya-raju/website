@@ -3,7 +3,7 @@ Hi, my name is Aditya. I’m here to connect with individuals, to collaborate an
 
 Welcome to my abode on the internet. You will find all the updated information related to connecting with me, collaborating with me, and the details related to my work here. Welcome home. :)
 
-Last Updated: 27th October 2022
+Last Updated: 31st October 2022
 
 - - -
 
@@ -25,7 +25,7 @@ I typically respond to texts and emails between 19:00 and 00:00 IST, daily.
 
 See you soon :)
 
-Last Updated: 27th October 2022
+Last Updated: 31st October 2022
 
 - - -
 
@@ -37,7 +37,7 @@ Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
-Latest Published Work: 
+Latest Published Work: (In descending order of timeline)
 
 31st October 2022
 
