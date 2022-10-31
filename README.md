@@ -26,3 +26,23 @@ Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 Thank you, take care
 
 Last Updated: 27th October 2022
+
+Lastest Published Work:
+
+- - - 
+
+31st October 2022
+
+[Event Log Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/4a3a3a0e7e294b03a3ae1d695ff4a5a0)
+
+Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event quickly with the shortcut.
+
+Last Updated: 31st October 2022 [Version #1]
+
+[Event Log with Description Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/394c2d79aad445d8a09750b63cec5cc5)
+
+Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event along with a description of the event quickly through the shortcut.
+
+Last Updated: 31st October 2022 [Version #1]
+
+- - - 
