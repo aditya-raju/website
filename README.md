@@ -17,10 +17,6 @@ Contact and connect with me:
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
-
-Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
-
 I typically respond to texts and emails between 19:00 and 00:00 IST, daily.
 
 See you soon :)
@@ -29,13 +25,21 @@ Last Updated: 31st October 2022
 
 - - -
 
-Check out my work:
+Check out my social profiles:
 
-Portfolio: [Portfolio](#)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+
+Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
+
+Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
 Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
-Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
+- - - 
+
+Check out my work:
+
+Portfolio: [Portfolio](#)
 
 Latest Published Work: (In descending order of timeline)
 
