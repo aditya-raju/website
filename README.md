@@ -1,13 +1,13 @@
 ## Connect with Aditya Raju
-Hi, my name is Aditya. I’m here to connect with individuals, to share the work that I’m part of and to collaborate. Welcome to my abode on the internet. You will find all the updated information related to connecting with me, collaborating, and realted to my work here. Welcome home. :)
+Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I’m or have been been a part of.
 
-- - 
+Welcome to my abode on the internet. You will find all the updated information related to connecting with me, collaborating with me, and the details related to my work here. Welcome home. :)
 
 Last Updated: 27th October 2022
 
 - - -
 
-Contact me:
+Contact and connect with me:
 
 📞 Phone: [+91-9876543210](tel:9876543210)
 
@@ -17,17 +17,13 @@ Contact me:
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-- -
-
-Connect with me:
-
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
-See you soon :)
+I typically respond to texts and emails between 19:00 and 00:00 IST, daily.
 
-- -
+See you soon :)
 
 Last Updated: 27th October 2022
 
@@ -35,13 +31,13 @@ Last Updated: 27th October 2022
 
 Check out my work:
 
+Portfolio: [Portfolio](#)
+
 Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
-- -
-
-Lastest Published Work: 
+Latest Published Work: 
 
 31st October 2022
 
