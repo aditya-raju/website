@@ -7,11 +7,11 @@ Last Updated: 3rd November 2022
 
 - - -
 
-Contact and connect with me:
+### Contact and connect with me:
 
 📞 Phone: [+91-9876543210](tel:+919876543210)
 
-💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
+💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) / [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
@@ -21,7 +21,7 @@ See you soon :)
 
 - - -
 
-Check out my social profiles:
+### Check out my social profiles:
 
 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
@@ -31,7 +31,7 @@ Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
 - - - 
 
-Check out my work:
+### Check out my work:
 
 Portfolio: [Portfolio](#)
 
@@ -39,9 +39,9 @@ Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 - - -
 
-Latest Published Work: (In descending order of timeline)
+### Recently published work:
 
-31st October 2022
+**31st October 2022**
 
 [Event Log Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/4a3a3a0e7e294b03a3ae1d695ff4a5a0)
 
