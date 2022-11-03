@@ -1,9 +1,13 @@
 ## Connect with Aditya Raju
-👤 Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
+👤 Hi, my name is Aditya.
 
-📃 Welcome to my abode on the internet. You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
+I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
 
-Last Updated: 3rd November 2022
+📃 Welcome to my abode on the internet.
+
+You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
+
+Last updated: 3rd November 2022
 
 - - -
 
