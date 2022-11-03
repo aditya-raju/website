@@ -11,9 +11,7 @@ Contact and connect with me:
 
 📞 Phone: [+91-9876543210](tel:+919876543210)
 
-💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1)
-
-![WhatsApp QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
+💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
