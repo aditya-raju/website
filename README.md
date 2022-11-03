@@ -7,7 +7,7 @@ Last Updated: 3rd November 2022
 
 - - -
 
-### Contact and connect with me:
+### Connect with me:
 
 📞 Phone: [+91-9876543210](tel:+919876543210)
 
