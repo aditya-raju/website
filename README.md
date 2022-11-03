@@ -1,9 +1,9 @@
 ## Connect with Aditya Raju
-Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I’m or have been been a part of.
+Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
 
-Welcome to my abode on the internet. You will find all the updated information related to connecting with me, collaborating with me, and the details related to my work here. Welcome home. :)
+Welcome to my abode on the internet. You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
 
-Last Updated: 31st October 2022
+Last Updated: 3rd November 2022
 
 - - -
 
@@ -29,13 +29,15 @@ Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
 Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
-Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
-
 - - - 
 
 Check out my work:
 
 Portfolio: [Portfolio](#)
+
+Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
+
+- - -
 
 Latest Published Work: (In descending order of timeline)
 
@@ -43,14 +45,14 @@ Latest Published Work: (In descending order of timeline)
 
 [Event Log Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/4a3a3a0e7e294b03a3ae1d695ff4a5a0)
 
-Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event quickly with the shortcut.
-
-Last Updated: 31st October 2022 [Version #1]
+>Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event quickly with the shortcut.
+>
+>Last Updated: 31st October 2022 [Version #1]
 
 [Event Log with Description Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/394c2d79aad445d8a09750b63cec5cc5)
 
-Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event along with a description of the event quickly through the shortcut.
-
-Last Updated: 31st October 2022 [Version #1]
+>Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event along with a description of the event quickly through the shortcut.
+>
+>Last Updated: 31st October 2022 [Version #1]
 
 - - - 
