@@ -13,7 +13,7 @@ Last updated: 3rd November 2022
 
 ### Connect with me:
 
-📞 Phone: [+91-9876543210](tel:+919876543210)
+📞 Phone: [+91-8850580700](tel:+918850580700)
 
 💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) / [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
