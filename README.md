@@ -1,7 +1,7 @@
 ## Connect with Aditya Raju
-Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
+👤 Hi, my name is Aditya. I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
 
-Welcome to my abode on the internet. You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
+📃 Welcome to my abode on the internet. You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
 
 Last Updated: 3rd November 2022
 
@@ -16,14 +16,13 @@ Last Updated: 3rd November 2022
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
 I typically respond to calls, texts and mails between 19:00 and 00:00 IST, daily.
-
 See you soon :)
 
 - - -
 
 ### Check out my social profiles:
 
-LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+🤝 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
