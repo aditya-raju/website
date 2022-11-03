@@ -9,7 +9,7 @@ Last Updated: 31st October 2022
 
 Contact and connect with me:
 
-📞 Phone: [+91-9876543210](tel:9876543210)
+📞 Phone: [+91-9876543210](tel:+919876543210)
 
 💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1)
 
@@ -17,7 +17,7 @@ Contact and connect with me:
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-I typically respond to phone calls, texts and emails between 19:00 and 00:00 IST, daily.
+I typically respond to calls, texts and mails between 19:00 and 00:00 IST, daily.
 
 See you soon :)
 
@@ -25,7 +25,7 @@ See you soon :)
 
 Check out my social profiles:
 
-![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
