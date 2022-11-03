@@ -24,17 +24,17 @@ See you soon :)
 
 🤝 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
-Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
+🏖️ Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
-Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
+🏖️ Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
 
 - - - 
 
 ### Check out my work:
 
-Portfolio: [Portfolio](#)
+📔 Portfolio: [Portfolio](#)
 
-Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
+📔 Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 - - -
 
