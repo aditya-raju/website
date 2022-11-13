@@ -1,17 +1,23 @@
 ## Connect with Aditya Raju
 👤 Hi, my name is Aditya.
 
+![IMG_1864](https://user-images.githubusercontent.com/101379574/201509191-1e2765ed-7ec9-4499-9e50-d7e7d046758c.jpeg)
+
 I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
-
-📃 Welcome to my abode on the internet.
-
-You will find all the updated information related to connecting or collaborating with me as well as all the details related to my work here. Welcome home. :)
-
-Last updated: 3rd November 2022
 
 - - -
 
-### Connect with me:
+🌐 Welcome to my abode on the internet.
+
+[adityaraju.me](adityaraju.me)
+
+You will find all the information related to connecting or collaborating with me as well as all the details related to my work here.
+
+The information on this website was last updated on **13th November 2022**.
+
+- - -
+
+👥 Connect with me
 
 📞 Phone: [+91-8850580700](tel:+918850580700)
 
@@ -19,30 +25,27 @@ Last updated: 3rd November 2022
 
 📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-I typically respond to calls, texts and mails between 19:00 and 00:00 IST, daily.
-See you soon :)
+I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
 
 - - -
 
-### Check out my social profiles:
+🧑‍💻 Check out my social profiles
 
-🤝 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+💼 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
 🏖️ Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
-🏖️ Instagram: [instagram/adi42r](https://www.instagram.com/adi42r)
-
 - - - 
 
-### Check out my work:
+📈 Check out my work
 
-📔 Portfolio: [Portfolio](#)
+📒 Portfolio: [Portfolio](#)
 
-📔 Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
+🗂️ Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 - - -
 
-### Recently published work:
+📰 Recently published work:
 
 **31st October 2022**
 
