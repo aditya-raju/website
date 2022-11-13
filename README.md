@@ -45,7 +45,7 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - -
 
-📰 Recently published work:
+📰 Recently published work
 
 **31st October 2022**
 
@@ -62,3 +62,17 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 >Last Updated: 31st October 2022 [Version #1]
 
 - - - 
+
+🏦 Support me and my work
+
+💸 You can support me and my work with a cup of coffee or eiffel tower donation
+
+PayPal: [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB)
+
+📤 You can also support me and my work by sharing it
+
+Share Buttons
+
+- - -
+
+Link to Bitcoin Address or Donation Wallet
