@@ -12,8 +12,6 @@ I’m here to connect with individuals, to collaborate and to share the work tha
 
 You will find all the information related to connecting or collaborating with me as well as all the details related to my work here.
 
-The information on this website was last updated on *14th November 2022*.
-
 - - -
 
 #### 👥 I'm here to connect with you
@@ -24,7 +22,7 @@ WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user
 
 Phone: [+91-8850580700](tel:+918850580700)
 
-I usually respond to calls, texts and mails between *19:00 and 00:00 IST*, daily.
+I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
 
 - - -
 
@@ -79,3 +77,7 @@ Link to Bitcoin Address or Donation Wallet
 #### 🧺 Recommended material
 
 Zen Mind: Beginner's Mind - [YouTube Audiobook](https://www.youtube.com/watch?v=3vDfq1Yt5to) | [Amazon](https://amzn.eu/d/32QaPQl)
+
+- - -
+
+The information on this website was last updated on **14th November 2022**.
