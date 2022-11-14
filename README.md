@@ -17,7 +17,7 @@ You will find all the information related to connecting or collaborating with me
 #### 👥 I'm here to connect with you
 
 | Email | [hello@adityaraju.me](mailto:hello@adityaraju.me) | 
-| WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg) |
+| WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) or [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg) |
 | Phone | [+91-8850580700](tel:+918850580700) |
 
 I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
@@ -72,7 +72,7 @@ Link to Bitcoin Address or Donation Wallet
 
 #### 🧺 Recommended material
 
-| Zen Mind: Beginner's Mind | [YouTube Audiobook](https://www.youtube.com/watch?v=3vDfq1Yt5to) | [Amazon](https://amzn.eu/d/32QaPQl) |
+| Zen Mind: Beginner's Mind | [YouTube](https://www.youtube.com/watch?v=3vDfq1Yt5to) or [Amazon](https://amzn.eu/d/32QaPQl) |
 
 - - -
 
