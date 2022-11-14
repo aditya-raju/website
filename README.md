@@ -1,6 +1,6 @@
 ### 👤 Hi, my name is Aditya
 
-![Aditya Raju Memoji](https://user-images.githubusercontent.com/101379574/201618462-350c43b4-0f4a-437c-93a9-9f68126b2ef1.png)
+![Aditya Raju Memoji Updated](https://user-images.githubusercontent.com/101379574/201690631-9ddb9bc8-6f0d-437d-a1dd-9e37338bb3ab.png)
 
 I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
 
