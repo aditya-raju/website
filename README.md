@@ -28,17 +28,17 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 #### 🧑‍💻 Check out my social profiles
 
-LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
+LinkedIn | [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
-Instagram: [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
+Instagram | [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
 - - - 
 
 #### 📈 Check out my work
 
-Portfolio: [Portfolio](#)
+Portfolio | [Portfolio](#)
 
-Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
+Behance | [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 - - -
 
@@ -62,7 +62,7 @@ Behance: [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 #### 💸 Support me or the work
 
-PayPal: [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB)
+PayPal | [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB)
 
 You can support me and my work with a cup of coffee or eiffel tower donation
 
@@ -76,7 +76,7 @@ Link to Bitcoin Address or Donation Wallet
 
 #### 🧺 Recommended material
 
-Zen Mind: Beginner's Mind - [YouTube Audiobook](https://www.youtube.com/watch?v=3vDfq1Yt5to) | [Amazon](https://amzn.eu/d/32QaPQl)
+Zen Mind: Beginner's Mind | [YouTube Audiobook](https://www.youtube.com/watch?v=3vDfq1Yt5to) | [Amazon](https://amzn.eu/d/32QaPQl)
 
 - - -
 
