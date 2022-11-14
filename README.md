@@ -1,13 +1,12 @@
-## Connect with Aditya Raju
-👤 Hi, my name is Aditya.
+#### 👤 Hi, my name is Aditya
 
-![IMG_1864](https://user-images.githubusercontent.com/101379574/201509191-1e2765ed-7ec9-4499-9e50-d7e7d046758c.jpeg)
+![Profile Picture (14th November 2022)](https://user-images.githubusercontent.com/101379574/201606874-2d1321a2-b39b-499a-9b64-2dc57fd065c8.png)
 
 I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
 
 - - -
 
-🌐 Welcome to my abode on the internet.
+#### 🌐 Welcome to my abode on the internet
 
 [adityaraju.me](adityaraju.me)
 
@@ -17,19 +16,19 @@ The information on this website was last updated on **13th November 2022**.
 
 - - -
 
-👥 Connect with me
+#### 👥 I'm here to connect
 
-📞 Phone: [+91-8850580700](tel:+918850580700)
+📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
 💬 WhatsApp: [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) / [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
-📧 Email: [hello@adityaraju.me](mailto:hello@adityaraju.me)
+📞 Phone: [+91-8850580700](tel:+918850580700)
 
 I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
 
 - - -
 
-🧑‍💻 Check out my social profiles
+#### 🧑‍💻 Check out my social profiles
 
 💼 LinkedIn: [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
 
@@ -37,7 +36,7 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - - 
 
-📈 Check out my work
+#### 📈 Check out my work
 
 📒 Portfolio: [Portfolio](#)
 
@@ -45,7 +44,7 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - -
 
-📰 Recently published work
+#### 📰 Recently published work
 
 **31st October 2022**
 
@@ -63,7 +62,7 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - - 
 
-🏦 Support me and my work
+#### 🏦 Support me and my work
 
 💸 You can support me and my work with a cup of coffee or eiffel tower donation
 
