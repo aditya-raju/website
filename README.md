@@ -16,9 +16,9 @@ You will find all the information related to connecting or collaborating with me
 
 #### 👥 I'm here to connect with you
 
-| 📧 Email | [hello@adityaraju.me](mailto:hello@adityaraju.me) | 
-| 💬 WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg) |
-| ☎️ Phone | [+91-8850580700](tel:+918850580700) |
+| Email | [hello@adityaraju.me](mailto:hello@adityaraju.me) | 
+| WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg) |
+| Phone | [+91-8850580700](tel:+918850580700) |
 
 I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
 
@@ -26,15 +26,15 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 #### 🧑‍💻 Check out my social profiles
 
-| 👔 LinkedIn | [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya) |
-| 🏖️ Instagram | [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_) |
+| LinkedIn | [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya) |
+| Instagram | [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_) |
 
 - - - 
 
 #### 📈 Check out my work
 
-| 📒 Portfolio | [Portfolio](#) |
-| 🗂️ Behance | [behance.net/rajuaditya](https://www.behance.net/rajuaditya) |
+| Portfolio | [Portfolio](#) |
+| Behance | [behance.net/rajuaditya](https://www.behance.net/rajuaditya) |
 
 - - -
 
