@@ -8,7 +8,7 @@ I’m here to connect with individuals, to collaborate and to share the work tha
 
 #### 🌐 Welcome to my abode on the web
 
-[adityaraju.me](adityaraju.me)
+Homepage | [adityaraju.me](adityaraju.me)
 
 You will find all the information related to connecting or collaborating with me as well as all the details related to my work here.
 
@@ -16,11 +16,11 @@ You will find all the information related to connecting or collaborating with me
 
 #### 👥 I'm here to connect with you
 
-Email | [hello@adityaraju.me](mailto:hello@adityaraju.me)
+📧 Email | [hello@adityaraju.me](mailto:hello@adityaraju.me)
 
-WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
+💬 WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) | [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg)
 
-Phone | [+91-8850580700](tel:+918850580700)
+☎️ Phone | [+91-8850580700](tel:+918850580700)
 
 I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
 
