@@ -24,17 +24,13 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 #### 🧑‍💻 Check out my social profiles
 
-LinkedIn | [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya)
-
-Instagram | [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
+👔 LinkedIn | [linkedin.com/in/rajuaditya](https://www.linkedin.com/in/rajuaditya) | 🏖️ Instagram | [instagram.com/adityaraju_](https://www.instagram.com/adityaraju_)
 
 - - - 
 
 #### 📈 Check out my work
 
-Portfolio | [Portfolio](#)
-
-Behance | [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
+📒 Portfolio | [Portfolio](#) | 🗂️ Behance | [behance.net/rajuaditya](https://www.behance.net/rajuaditya)
 
 - - -
 
