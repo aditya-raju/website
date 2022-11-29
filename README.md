@@ -2,7 +2,7 @@
 
 ![Aditya Raju Memoji Updated](https://user-images.githubusercontent.com/101379574/201690631-9ddb9bc8-6f0d-437d-a1dd-9e37338bb3ab.png)
 
-I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of.
+I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of
 
 - - -
 
@@ -10,17 +10,17 @@ I’m here to connect with individuals, to collaborate and to share the work tha
 
 Homepage | [adityaraju.me](adityaraju.me)
 
-You will find all the information related to connecting or collaborating with me as well as all the details related to my work here.
+You will find all the information related to connecting or collaborating with me as well as all the details related to my work here
 
 - - -
 
-#### 👥 I'm here to connect with you
+#### 👥 Let us connect
 
 | Email | [hello@adityaraju.me](mailto:hello@adityaraju.me) | 
 | WhatsApp | [Magic Link](https://wa.me/qr/NGPNCXQF276OL1) or [QR Code](https://user-images.githubusercontent.com/101379574/198308796-695b71e7-08aa-4238-b42e-75d166fa6dcc.jpeg) |
 | Phone | [+91-8850580700](tel:+918850580700) |
 
-I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily.
+I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, daily
 
 - - -
 
@@ -44,13 +44,13 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 [Event Log Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/4a3a3a0e7e294b03a3ae1d695ff4a5a0)
 
->Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event quickly with the shortcut.
+>Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event quickly with the shortcut
 >
 >Last Updated: 31st October 2022 [Version #1]
 
 [Event Log with Description Shortcut for Apple Ecosystem (iOS, iPadOS, macOS)](https://www.icloud.com/shortcuts/394c2d79aad445d8a09750b63cec5cc5)
 
->Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event along with a description of the event quickly through the shortcut.
+>Description: This shortcut allows you to make a timestamp of any event in your day by making a note of the event along with a description of the event quickly through the shortcut
 >
 >Last Updated: 31st October 2022 [Version #1]
 
@@ -58,21 +58,20 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 #### 📃 Recently published blog posts
 
-29 November 2022: [Testing](/posts/testpost1.md)]
+| 29 November 2022 | [Testing](/posts/testpost1.md) |
 
 - - -
 
 #### 💸 Support me or the work
 
+You can support me and or the work with a cup of coffee or eiffel tower donation
+
 | PayPal | [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB) |
+| Bitcoin | [bc1q5r9n9ltntkp4m5u5ga7srqhww5plcqnhk0g7wc](bitcoin:bc1q5r9n9ltntkp4m5u5ga7srqhww5plcqnhk0g7wc) |
 
-You can support me and my work with a cup of coffee or eiffel tower donation
+You can also support me or the work by sharing it
 
-You can also support me and my work by sharing it
-
-ShareButtons
-
-Link to Bitcoin Address or Donation Wallet
+| Share on Twitter | [Twitter](twitter.com) |
 
 - - -
 
@@ -82,4 +81,4 @@ Link to Bitcoin Address or Donation Wallet
 
 - - -
 
-The information on this website was last updated on **14th November 2022**.
+The information on this website was last updated on **29 November 2022**
