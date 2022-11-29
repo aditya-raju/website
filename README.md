@@ -71,7 +71,7 @@ You can support me and or the work with a cup of coffee or eiffel tower donation
 
 You can also support me or the work by sharing it
 
-| Share on Twitter | [Twitter](twitter.com) |
+| Twitter | [twitter.com/share](https://twitter.com/share?ref_src=twsrc%5Etfw) |
 
 - - -
 
