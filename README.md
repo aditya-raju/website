@@ -56,6 +56,12 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - - 
 
+#### 📃 Recently published blog posts
+
+29 November 2022: [Testing](/posts/testpost1.md)]
+
+- - -
+
 #### 💸 Support me or the work
 
 | PayPal | [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB) |
