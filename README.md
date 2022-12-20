@@ -78,6 +78,7 @@ You can also support me or the work by sharing it
 #### 🧺 Recommended material
 
 | Zen Mind: Beginner's Mind | [YouTube](https://www.youtube.com/watch?v=3vDfq1Yt5to) or [Amazon](https://amzn.eu/d/32QaPQl) |
+| Unflattening | [Amazon] (https://amzn.eu/d/0s2OHzB) |
 
 - - -
 
