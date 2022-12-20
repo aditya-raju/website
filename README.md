@@ -82,4 +82,4 @@ You can also support me or the work by sharing it
 
 - - -
 
-The information on this website was last updated on **29 November 2022**
+The information on this website was last updated on **20 December 2022**
