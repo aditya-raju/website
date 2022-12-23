@@ -2,7 +2,8 @@
 
 ![Aditya Raju Memoji Updated](https://user-images.githubusercontent.com/101379574/201690631-9ddb9bc8-6f0d-437d-a1dd-9e37338bb3ab.png)
 
-I’m here to connect with individuals, to collaborate and to share the work that I am or have been a part of
+I play the role of Aditya Raju (my superhero name 🦸) for my work.
+I’m here to connect, collaborate and share.
 
 - - -
 
@@ -10,7 +11,9 @@ I’m here to connect with individuals, to collaborate and to share the work tha
 
 Homepage | [adityaraju.me](adityaraju.me)
 
-You will find all the information related to connecting or collaborating with me as well as all the details related to my work here
+You will find all the information relevant to:
+* connecting or collaborating with me
+* details of the work, past and present
 
 - - -
 
@@ -56,20 +59,20 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 
 - - - 
 
-#### 📃 Recently published blog posts
+#### 📃 Recently published posts
 
-| 29 November 2022 | [Testing](/posts/testpost1.md) |
+| 29 November 2022 | [Testing](/posts/testpost1.md) | Frist Published | Last Edited |
 
 - - -
 
-#### 💸 Support me or the work
+#### 💸 Support me and the work
 
-You can support me and or the work with a cup of coffee or eiffel tower donation
+You can support me and the work with a cup of coffee or eiffel tower donation
 
 | PayPal | [paypal.me/iAditya](https://paypal.me/iAditya?country.x=IN&locale.x=en_GB) |
 | Bitcoin | [bc1q5r9n9ltntkp4m5u5ga7srqhww5plcqnhk0g7wc](bitcoin:bc1q5r9n9ltntkp4m5u5ga7srqhww5plcqnhk0g7wc) |
 
-You can also support me or the work by sharing it
+You can also support me and the work by sharing it
 
 | Twitter | [twitter.com/share](https://twitter.com/share?ref_src=twsrc%5Etfw) |
 
@@ -78,7 +81,7 @@ You can also support me or the work by sharing it
 #### 🧺 Recommended material
 
 | Zen Mind: Beginner's Mind | [YouTube](https://www.youtube.com/watch?v=3vDfq1Yt5to) or [Amazon](https://amzn.eu/d/32QaPQl) |
-| Unflattening | [Amazon](https://amzn.eu/d/0s2OHzB) |
+| Unflattening | [Amazon](https://amzn.eu/d/0s2OHzB) | 
 
 - - -
 
