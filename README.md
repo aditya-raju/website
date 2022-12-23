@@ -1,4 +1,4 @@
-### 👤 Hi, my name is Aditya Guntur.
+### 👤 Hi, my name is Aditya Guntur
 
 ![Aditya Raju Memoji Updated](https://user-images.githubusercontent.com/101379574/201690631-9ddb9bc8-6f0d-437d-a1dd-9e37338bb3ab.png)
 
