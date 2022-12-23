@@ -60,8 +60,9 @@ I usually respond to calls, texts and mails between **19:00 and 00:00 IST**, dai
 - - - 
 
 #### 📃 Recently published posts
-
-| 29 November 2022 | [Testing](/posts/testpost1.md) | Frist Published | Last Edited |
+| Title |  Last Edited | First Published |
+|---|---|---|
+| [Testing](/posts/testpost1.md) | 29 November 2022 | 29 November 2022 |
 
 - - -
 
